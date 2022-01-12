@@ -67,3 +67,4 @@ require "Fruta.php";
 
 
 ?>modificacion
+holahola
